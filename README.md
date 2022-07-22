@@ -25,8 +25,8 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 Users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
-- Able to add scores like 1,2 and three
-- Able to edit the heading of Basketball ScoreBoard to any other according to their needs
+- Able to add scores like 1,2 and 3 respectively
+- Able to edit the heading of Basketball ScoreBoard and the name of the team to any other according of your needs
 
 ### Screenshot
 
@@ -68,6 +68,6 @@ Users should be able to:
 ## Conclusion
 
 You can use this score board for any kinds of game or used to rate or marks points on something. You can edit the topic name " Basketball Scoreboard" 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+This is where you can give a hat tip to anyone. This is the perfect place to give them some credit.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Hope it will be useful and you will love it.
