@@ -50,8 +50,6 @@ Users should be able to:
 - Vanilla JavaScript
 
 
-
-
 ### Useful resources
 
 - [JavaScript Number Methods](https://www.w3schools.com/js/js_number_methods.asp) - This helped me to convert the string into the number.
