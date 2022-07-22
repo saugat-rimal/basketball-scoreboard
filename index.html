@@ -4,40 +4,44 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <title>Basketball Scoreboard</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <div class="container">
-        <h1 class="tip" contenteditable="true">Basketball Scoreboard &#x2b;<span>You can edit the text "Basketball
+        <h1 class="tip" contenteditable="true">Basketball Scoreboard
+            &#x2b;<span>You can edit the text "Basketball
                 Scoreboard" to anything you like</span></h1>
         <section>
             <div class="home box">
                 <h2>HOMES</h2>
                 <span class="displaybox">
-                    <h3>0</h3>
+                    <h3 id="teamone">0</h3>
                 </span>
                 <span class="buttons">
-                    <button onclick="add1()">+1</button>
-                    <button onclick="add2()">+2</button>
-                    <button onclick="add3()">+3</button>
+                    <button class="team-one-btn-one">+1</button>
+                    <button class="team-one-btn-two">+2</button>
+                    <button class="team-one-btn-three">+3</button>
                 </span>
             </div>
             <div class="guest box">
                 <h2>Guest</h2>
                 <span class="displaybox">
-                    <h3>0</h3>
+                    <h3 id="teamtwo">0</h3>
                 </span>
                 <span class="buttons">
-                    <button>+1</button>
-                    <button>+2</button>
-                    <button>+3</button>
+                    <button class="team-two-btn-one">+1</button>
+                    <button class="team-two-btn-two">+2</button>
+                    <button class="team-two-btn-three">+3</button>
                 </span>
             </div>
 
         </section>
+
+        <button onclick="resetNum()"> Reset</button>
 
 
     </div>
@@ -46,7 +50,7 @@
         <p>Made by <a target="_blank" href="https://saugatrimal.com.np">Saugat Rimal</a> with ❤️ </p>
     </footer>
 
-    <script src="./index.js"></script>
+    <script src="index.js"></script>
 </body>
 
 </html>
