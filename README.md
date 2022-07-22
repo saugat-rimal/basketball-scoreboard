@@ -1,8 +1,6 @@
 # Custom scoreboard
 
-
-
-This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Made a score board for any kinds of game or used to rate or marks points on something. You can edit the topic name " Basketball Scoreboard" and also the team name like "Home & "Guest to anything you like.
 
 ## Table of contents
 
@@ -16,7 +14,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 - [Author](#author)
 - [Conclusion](#Conclusion)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
