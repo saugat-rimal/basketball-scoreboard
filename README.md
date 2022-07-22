@@ -61,6 +61,8 @@ Users should be able to:
 
 - Website - [Saugat Rimal](https://saugatrimal.com.np)
 - Facebook - [Saugat Rimal](https://www.facebook.com/saugatrimal.pro)
+- LinkedIn - [Saugat Rimal](https://www.linkedin.com/in/saugatrimal/)
+- Instagram - [Saugat Rimal](https://www.instagram.com/saugatrimal60/)
 
 
 ## Conclusion
